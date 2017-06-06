@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Siphiwe Smail
 
-I like to:
+I like to: Cook, dance, travel, listen to music and code.
 
-I'm learning:
+I'm learning: Web development through the Lambda Mini Bootcamp.
 
 ```
 
